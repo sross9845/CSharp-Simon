@@ -1,0 +1,11 @@
+C:\Users\seanr\code\C#\Simon\bin\Debug\netcoreapp3.1\Simon.exe
+C:\Users\seanr\code\C#\Simon\bin\Debug\netcoreapp3.1\Simon.deps.json
+C:\Users\seanr\code\C#\Simon\bin\Debug\netcoreapp3.1\Simon.runtimeconfig.json
+C:\Users\seanr\code\C#\Simon\bin\Debug\netcoreapp3.1\Simon.runtimeconfig.dev.json
+C:\Users\seanr\code\C#\Simon\bin\Debug\netcoreapp3.1\Simon.dll
+C:\Users\seanr\code\C#\Simon\bin\Debug\netcoreapp3.1\Simon.pdb
+C:\Users\seanr\code\C#\Simon\obj\Debug\netcoreapp3.1\Simon.csprojAssemblyReference.cache
+C:\Users\seanr\code\C#\Simon\obj\Debug\netcoreapp3.1\Simon.AssemblyInfoInputs.cache
+C:\Users\seanr\code\C#\Simon\obj\Debug\netcoreapp3.1\Simon.AssemblyInfo.cs
+C:\Users\seanr\code\C#\Simon\obj\Debug\netcoreapp3.1\Simon.dll
+C:\Users\seanr\code\C#\Simon\obj\Debug\netcoreapp3.1\Simon.pdb
