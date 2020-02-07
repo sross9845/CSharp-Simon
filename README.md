@@ -1,0 +1,2 @@
+# CSharp-Simon
+C# Console only Simon game. Displays the simon game board and randomly assigns the motions. Users will use their arrow keys to input the motion displayed. Pretty fun to make for a first C# game!
